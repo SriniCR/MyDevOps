@@ -1,2 +1,3 @@
 Quartely Cost = 1k$
 Halfyearly Cost = 2k$
+Yearly Cost = 4k$
